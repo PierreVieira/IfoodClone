@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ifood Clone</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="marketplaces">Mercados</string>
+    <string name="drinks">Bebidas</string>
+    <string name="qr_code">qr code</string>
+</resources>
