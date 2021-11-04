@@ -4,4 +4,12 @@
     <string name="marketplaces">Mercados</string>
     <string name="drinks">Bebidas</string>
     <string name="qr_code">qr code</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="pra_retirar">Pra retirar</string>
+    <string name="entrega_gratis">Entrega grátis</string>
+    <string name="vale_refeicao">Vale refeição</string>
+    <string name="distancia">Distância</string>
+    <string name="entrega_parceria">Entrega Parceria</string>
+    <string name="super_restaurante">Super Restaurante</string>
+    <string name="filtros">Filtros</string>
 </resources>

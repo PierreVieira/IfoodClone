@@ -8,7 +8,7 @@ class TabViewPagerAdapter(fragmentActivity: FragmentActivity) :
     FragmentStateAdapter(fragmentActivity) {
 
     val tabs = arrayOf(R.string.restaurants, R.string.marketplaces, R.string.drinks)
-    private val fragments = arrayOf(MarketPlaceFragment(), MarketPlaceFragment(), MarketPlaceFragment())
+    private val fragments = arrayOf(RestaurantFragment(), MarketPlaceFragment(), MarketPlaceFragment())
 
     override fun getItemCount() = fragments.size
     override fun createFragment(position: Int): Fragment {
